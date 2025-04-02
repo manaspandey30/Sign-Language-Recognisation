@@ -65,7 +65,3 @@ This project is licensed under the **MIT License**.
 Special thanks to open-source datasets and the deep learning community for continuous advancements in AI-driven accessibility solutions.
 
 ---
-
-### **👀 See it in Action!**
-Stay tuned for a demo video showcasing real-time sign language recognition! 🚀
-
